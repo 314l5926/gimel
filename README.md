@@ -1,5 +1,8 @@
 # Gimel
 
+[![Build Status](https://travis-ci.org/Alephbet/gimel.svg?branch=master)](https://travis-ci.org/Alephbet/gimel)
+[![PyPI](https://img.shields.io/pypi/v/gimel.svg)](https://pypi.python.org/pypi/gimel)
+
 [a Scaleable A/B testing backend in ~100 lines of code (and for free*)](http://blog.gingerlime.com/2016/a-scaleable-ab-testing-backend-in-100-lines-of-code-and-for-free/)
 
 ## What is it?
@@ -37,7 +40,7 @@ for tracking your experiments.
 
 ## Architecture
 
-![Architecture](https://s3.amazonaws.com/gingerlime-images/gimel-architecture.png "Architecture")
+![](https://s3.amazonaws.com/gingerlime-images/gimel-architecture.png "Architecture")
 
 ### Client
 
@@ -94,3 +97,4 @@ WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEM
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
+
